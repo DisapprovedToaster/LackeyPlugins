@@ -25,7 +25,7 @@
 </gamezone>
 
 <gamezone>
-     <label>Removed</label>
+     <label>Architect Prison</label>
      <visibletoowner>yes</visibletoowner>
      <visibletoothers>yes</visibletoothers>
 </gamezone>
