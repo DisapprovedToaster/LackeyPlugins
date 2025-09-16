@@ -1,0 +1,7 @@
+<uninstall>
+
+	<dateYYMMDD>110131</dateYYMMDD>
+	<removepath>sets/setimages/beta/</removepath>
+	<removepath>sets/old.txt</removepath>
+
+</uninstall>

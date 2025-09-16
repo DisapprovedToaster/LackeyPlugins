@@ -1,0 +1,26 @@
+civil-draft	09-11-25
+plugins/civil-draft/bot.png	https://sepsoft.ca/lackeyplugin/civil-draft/bot.png	1
+plugins/civil-draft/CardImageURLs1.txt	https://sepsoft.ca/lackeyplugin/civil-draft/CardImageURLs1.txt	1
+plugins/civil-draft/formats.txt	https://sepsoft.ca/lackeyplugin/civil-draft/formats.txt	1
+plugins/civil-draft/plugininfo.txt	https://sepsoft.ca/lackeyplugin/civil-draft/plugininfo.txt	1
+plugins/civil-draft/uninstall.txt	https://sepsoft.ca/lackeyplugin/civil-draft/uninstall.txt	1
+plugins/civil-draft/updatelist.txt	https://sepsoft.ca/lackeyplugin/civil-draft/updatelist.txt	1
+plugins/civil-draft/version.txt	https://sepsoft.ca/lackeyplugin/civil-draft/version.txt	1
+plugins/civil-draft/decks/sample.dek	https://sepsoft.ca/lackeyplugin/civil-draft/sample.dek	1
+plugins/civil-draft/images/attackphase.png	https://sepsoft.ca/lackeyplugin/civil-draft/attackphase.png	1
+plugins/civil-draft/images/phases.png	https://sepsoft.ca/lackeyplugin/civil-draft/phases.png	1
+plugins/civil-draft/packs/Box_Closed.png	https://sepsoft.ca/lackeyplugin/civil-draft/Box_Closed.png	1
+plugins/civil-draft/packs/Box_Open.png	https://sepsoft.ca/lackeyplugin/civil-draft/Box_Open.png	1
+plugins/civil-draft/packs/Box_WithFoils.png	https://sepsoft.ca/lackeyplugin/civil-draft/Box_WithFoils.png	1
+plugins/civil-draft/packs/collecters.png	https://sepsoft.ca/lackeyplugin/civil-draft/collecters.png	1
+plugins/civil-draft/packs/deck3.png	https://sepsoft.ca/lackeyplugin/civil-draft//deck3.png	1
+plugins/civil-draft/packs/Deck_3.png	https://sepsoft.ca/lackeyplugin/civil-draft/Deck_3.png	1
+plugins/civil-draft/packs/full_set.png	https://sepsoft.ca/lackeyplugin/civil-draft/full_set.png	1
+plugins/civil-draft/packs/multibox.png	https://sepsoft.ca/lackeyplugin/civil-draft/multibox.png	1
+plugins/civil-draft/packs/packdefinitions1.xml	https://sepsoft.ca/lackeyplugin/civil-draft/packdefinitions1.xml	1
+plugins/civil-draft/packs/preorder.png	https://sepsoft.ca/lackeyplugin/civil-draft/preorder.png	1
+plugins/civil-draft/packs/samplebooster.png	https://sepsoft.ca/lackeyplugin/civil-draft/samplebooster.png	1
+plugins/civil-draft/sets/carddata.txt	https://sepsoft.ca/lackeyplugin/civil-draft/carddata.txt	1
+
+CardURLFiles:
+CardImageURLs1.txt

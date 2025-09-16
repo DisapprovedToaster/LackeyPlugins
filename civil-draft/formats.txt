@@ -1,0 +1,14 @@
+<formatdefinitions>
+<format>
+     <label>Standard</label>
+     <set>PRIME</set>
+</format>
+<format>
+     <label>Pre-Orders</label>
+     <set>PREORDER</set>
+</format>
+<format>
+     <label>Promotional</label>
+     <set>PROMO</set>
+</format>
+</formatdefinitions>

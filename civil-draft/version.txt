@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>250831</lastupdateYYMMDD>
+<quality>HIGH</quality>
+<versionurl>http://xxx...xxx/version.txt</versionurl>
+<updateurl>http://xxx...xxx/updatelist.txt</updateurl>
+<message>First, release of the Hit new game Civil-Draft. Let's hope it is a major success, and spawns several new releases!</message>
+
+</version>
