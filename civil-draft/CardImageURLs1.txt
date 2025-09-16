@@ -1,3 +1,4 @@
+CardImageURLs:
 general/cardback.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/cardback.png
 general/spawned.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/spawned.png
 Preorder/0011-Alt.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/0011-Alt.png
@@ -165,3 +166,4 @@ Prime/0101.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugin
 Prime/0102-Foil.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/0102-Foil.png
 Prime/0102.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/0102.png
 Promo/0000-Foil.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/0000-Foil.png
+
