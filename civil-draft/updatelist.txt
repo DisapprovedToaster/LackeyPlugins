@@ -1,22 +1,22 @@
 civil-draft	09-11-25
-plugins/civil-draft/bot.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/bot.png	-166919
-plugins/civil-draft/CardImageURLs1.txt	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/CardImageURLs1.txt	1543908
-plugins/civil-draft/formats.txt	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/formats.txt	20826
-plugins/civil-draft/plugininfo.txt	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/plugininfo.txt	236748
-plugins/civil-draft/uninstall.txt	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/uninstall.txt	12726
-plugins/civil-draft/updatelist.txt	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/updatelist.txt	273395
-plugins/civil-draft/version.txt	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/version.txt	41491
-plugins/civil-draft/packs/Box_Closed.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/Box_Closed.png	-66035
-plugins/civil-draft/packs/Box_Open.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/Box_Open.png	-63194
-plugins/civil-draft/packs/Box_WithFoils.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/Box_WithFoils.png	-172674
-plugins/civil-draft/packs/collecters.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/collecters.png	-335146
-plugins/civil-draft/packs/deck3.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/deck3.png	-99049
-plugins/civil-draft/packs/Deck_3.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/Deck_3.png	-99049
-plugins/civil-draft/packs/full_set.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/full_set.png	-59490
-plugins/civil-draft/packs/multibox.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/multibox.png	-172674
-plugins/civil-draft/packs/packdefinitions1.xml	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/packdefinitions1.xml	396621
-plugins/civil-draft/packs/preorder.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/preorder.png	-70106
-plugins/civil-draft/packs/samplebooster.png	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/samplebooster.png	-381491
-plugins/civil-draft/sets/carddata.txt	https://github.com/DisapprovedToaster/LackeyPlugins/blob/main/civil-draft/carddata.txt	2143403
+plugins/civil-draft/bot.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/bot.png	-166919
+plugins/civil-draft/CardImageURLs1.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/CardImageURLs1.txt	1543908
+plugins/civil-draft/formats.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/formats.txt	20826
+plugins/civil-draft/plugininfo.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/plugininfo.txt	236748
+plugins/civil-draft/uninstall.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/uninstall.txt	12726
+plugins/civil-draft/updatelist.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updatelist.txt	273395
+plugins/civil-draft/version.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/version.txt	41491
+plugins/civil-draft/packs/Box_Closed.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/Box_Closed.png	-66035
+plugins/civil-draft/packs/Box_Open.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/Box_Open.png	-63194
+plugins/civil-draft/packs/Box_WithFoils.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/Box_WithFoils.png	-172674
+plugins/civil-draft/packs/collecters.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/collecters.png	-335146
+plugins/civil-draft/packs/deck3.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/deck3.png	-99049
+plugins/civil-draft/packs/Deck_3.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/Deck_3.png	-99049
+plugins/civil-draft/packs/full_set.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/full_set.png	-59490
+plugins/civil-draft/packs/multibox.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/multibox.png	-172674
+plugins/civil-draft/packs/packdefinitions1.xml	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/packdefinitions1.xml	396621
+plugins/civil-draft/packs/preorder.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/preorder.png	-70106
+plugins/civil-draft/packs/samplebooster.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/samplebooster.png	-381491
+plugins/civil-draft/sets/carddata.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/carddata.txt	2143403
 CardImageURLs:
 CardImageURLs1.txt
