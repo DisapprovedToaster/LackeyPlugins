@@ -1,0 +1,9 @@
+<uninstall>
+
+<dateYYMMDD>110101</dateYYMMDD>
+
+<removepath>sets/allcards5.txt</removepath>
+
+<removepath>CardImageURLs1.txt</removepath>
+
+</uninstall>

@@ -1,0 +1,5 @@
+<listofcarddatafiles>
+
+<filetoinclude>carddata.txt</filetoinclude>
+
+</listofcarddatafiles>

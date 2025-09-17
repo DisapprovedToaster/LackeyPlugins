@@ -1,9 +1,0 @@
-<version>
-
-<lastupdateYYMMDD>250831</lastupdateYYMMDD>
-<quality>HIGH</quality>
-<versionurl>https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updatelist.txt</updateurl>
-<message>First, release of the Hit new game Civil-Draft. Let's hope it is a major success, and spawns several new releases!</message>
-
-</version>
