@@ -1,4 +1,8 @@
 <plugin>
+<pluginversion>2.0</pluginversion>
+
+<pluginname>civil-draft</pluginname>
+
 <playerstat><label>CompletedObjectives</label><initialvalue>0</initialvalue></playerstat>
 <deckzone>
      <label>Deck</label>
@@ -60,4 +64,5 @@
 <generalfunction><label>Previous Turn</label><kind>PEREVIOUSTURN</kind></generalfunction>
 <generalfunction><label>Next Turn</label><kind>NEXTTURN</kind></generalfunction>
 <generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind></generalfunction>
+
 </plugin>
