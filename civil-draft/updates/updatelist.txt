@@ -27,5 +27,5 @@ plugins/civil-draft/packs/samplebooster.png	https://raw.githubusercontent.com/Di
 
 plugins/civil-draft/updatelist.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/updatelist.txt	330835
 
-CardImageURLs:
+CardURLFiles:
 CardImageURLs1.txt
