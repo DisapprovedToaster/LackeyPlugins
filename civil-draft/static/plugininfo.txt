@@ -47,7 +47,6 @@
 
 <generalfunction><label>Ready All</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
 <generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Draw 6</label><kind>DRAWCARD</kind><kind>DRAWCARD</kind><kind>DRAWCARD</kind><kind>DRAWCARD</kind><kind>DRAWCARD</kind><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
 <generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind></generalfunction>
 <generalfunction><label>Next Phase</label><kind>NEXTPHASE</kind></generalfunction>
 <generalfunction>

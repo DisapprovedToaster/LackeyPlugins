@@ -9,7 +9,7 @@ Done.
 You done?
 Mulligan.
 MISE!
-/draw7
+/draw6
 /playerchoose
 /flip 1
 Good game.

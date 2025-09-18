@@ -1,9 +1,7 @@
 <uninstall>
 
-<dateYYMMDD>110101</dateYYMMDD>
+<dateYYMMDD>250919</dateYYMMDD>
 
-<removepath>sets/allcards5.txt</removepath>
-
-<removepath>CardImageURLs1.txt</removepath>
+<removepath>bot.png</removepath>
 
 </uninstall>

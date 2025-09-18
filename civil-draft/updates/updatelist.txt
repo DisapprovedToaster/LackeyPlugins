@@ -1,11 +1,11 @@
 civil-draft	09-18-25
-plugins/civil-draft/updatelist.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/updatelist.txt	346700
+plugins/civil-draft/updatelist.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/updatelist.txt	346928
 plugins/civil-draft/version.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/version.txt	45308
 plugins/civil-draft/formats.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/formats.txt	20826
 plugins/civil-draft/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/ListOfCardDataFiles.txt	8581
-plugins/civil-draft/plugininfo.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/plugininfo.txt	450767
+plugins/civil-draft/plugininfo.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/plugininfo.txt	431287
 plugins/civil-draft/uninstall.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/uninstall.txt	7782
-plugins/civil-draft/defaultchat.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/defaultchat.txt	14972
+plugins/civil-draft/defaultchat.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/defaultchat.txt	14971
 plugins/civil-draft/CardImageURLs1.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/CardImageURLs1.txt	1959716
 plugins/civil-draft/sets/carddata.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/cardfiles/carddata.txt	2147706
 plugins/civil-draft/packs/packdefinitions1.xml	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/packs/packdefinitions1.xml	470876
