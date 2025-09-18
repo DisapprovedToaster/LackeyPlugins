@@ -26,5 +26,5 @@ plugins/civil-draft/packs/multibox.png	https://raw.githubusercontent.com/Disappr
 plugins/civil-draft/packs/preorder.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/preorder.png	-70106
 plugins/civil-draft/packs/samplebooster.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/samplebooster.png	-381491
 
-CardGeneralURLs:
-https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/cardFaces/
+CardURLFiles:
+CardImageURLs1.txt
