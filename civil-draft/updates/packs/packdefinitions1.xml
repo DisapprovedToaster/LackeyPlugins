@@ -1,105 +1,2 @@
-<packdefinitions version="1.0">
-
-<pack>
-	<packtitle>Starter Deck</packtitle>
-	<packimage>deck3.png</packimage>
-	<packformat>normal</packformat>
-	<packkind>BaseGame</packkind>
-	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>PRIME</data></packcommoncrit>
-	<chance>
-		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>OBJECTIVE</data></crit></kind>
-		<kind><qty>4</qty><crit><field>Type</field><eval>IS</eval><data>ENGINEER</data></crit></kind>
-		<kind><qty>6</qty><crit><field>Type</field><eval>IS</eval><data>ITEM</data></crit></kind>
-		<kind><qty>2</qty><crit><field>Type</field><eval>IS</eval><data>LOCATION</data></crit></kind>
-		<kind><qty>9</qty><crit><field>Type</field><eval>IS</eval><data>MATERIAL</data></crit></kind>
-		<kind><qty>1</qty><crit><field>Type</field><eval>IS</eval><data>ARCHITECT</data></crit></kind>		
-	</chance>
-</pack>
-
-<pack>
-	<packtitle>Un-Signed Card</packtitle>
-	<packimage>collecters.png</packimage>
-	<packformat>limited</packformat>
-	<packkind>Promotion</packkind>
-	<packdoubles>no</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>PREORDER</data></packcommoncrit>
-	<chance>
-		<kind><qty>1</qty><crit><field>Number</field><eval>IS</eval><data>0</data></crit></kind>
-	</chance>
-</pack>
-
-<pack>
-	<packtitle>Preorder Bonus Cards</packtitle>
-	<packimage>samplebooster.png</packimage>
-	<packformat>special</packformat>
-	<packkind>Promotion</packkind>
-	<packdoubles>no</packdoubles>
-	<chance>
-		<kind><qty>8</qty><crit><field>Set</field><eval>IS</eval><data>PROMO</data></crit></kind>
-	</chance>
-</pack>
-
-<pack>
-	<packtitle>Booshter Pack</packtitle>
-	<packimage>booshterpack.png</packimage>
-	<packformat>booshter</packformat>
-	<packkind>BasicExpansion</packkind>
-	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>PRIME</data></packcommoncrit>
-	<chance>
-		<prob>98</prob>
-		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>1</data></crit></kind>
-		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>2</data></crit></kind>
-		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>3</data></crit></kind>
-		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>4</data></crit></kind>
-		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>5</data></crit></kind>
-		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>6</data></crit></kind>
-		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>7</data></crit></kind>
-	</chance>
-
-	<chance>
-		<prob>2</prob>
-		<kind>
-			<qty>7</qty>
-			<crit><field>Rarity</field><eval>IS</eval><data>B</data></crit>
-			<crit><field>Foil</field><eval>IS</eval><data>1</data></crit>
-		</kind>
-	</chance>
-</pack>
-
-<pack>
-	<packtitle>Booshter Box</packtitle>
-	<packimage>booshterbox.png</packimage>
-	<packformat>booshter</packformat>
-	<packkind>BasicExpansion</packkind>
-	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>PRIME</data></packcommoncrit>
-	<chance>
-		<prob>98</prob>
-		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>1</data></crit></kind>
-		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>2</data></crit></kind>
-		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>3</data></crit></kind>
-		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>4</data></crit></kind>
-		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>5</data></crit></kind>
-		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>6</data></crit></kind>
-		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>7</data></crit></kind>
-	</chance>
-
-	<chance>
-		<prob>2</prob>
-		<kind><qty>7</qty><crit><field>Card</field><eval>CONTAINS</eval><data>1</data></crit></kind>
-		<kind><qty>7</qty><crit><field>Card</field><eval>CONTAINS</eval><data>2</data></crit></kind>
-		<kind><qty>7</qty><crit><field>Card</field><eval>CONTAINS</eval><data>3</data></crit></kind>
-		<kind><qty>7</qty><crit><field>Card</field><eval>CONTAINS</eval><data>4</data></crit></kind>
-		<kind><qty>7</qty><crit><field>Card</field><eval>CONTAINS</eval><data>5</data></crit></kind>
-		<kind><qty>7</qty><crit><field>Card</field><eval>CONTAINS</eval><data>6</data></crit></kind>
-		<kind><qty>7</qty><crit><field>Card</field><eval>CONTAINS</eval><data>7</data></crit></kind>
-		<kind>
-			<qty>7</qty>
-			<crit><field>Rarity</field><eval>IS</eval><data>B</data></crit>
-			<crit><field>Foil</field><eval>IS</eval><data>1</data></crit>
-		</kind>
-	</chance>
-</pack>
-</packdefinitions>
+<packdefinitions version="1.0"><pack>	<packtitle>Starter Deck</packtitle>	<packimage>deck3.png</packimage>	<packformat>normal</packformat>	<packkind>BaseGame</packkind>	<packdoubles>yes</packdoubles>	<packcommoncrit><field>Set</field><eval>IS</eval><data>PRIME</data></packcommoncrit>	<chance>		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>OBJECTIVE</data></crit></kind>		<kind><qty>4</qty><crit><field>Type</field><eval>IS</eval><data>ENGINEER</data></crit></kind>		<kind><qty>6</qty><crit><field>Type</field><eval>IS</eval><data>ITEM</data></crit></kind>		<kind><qty>2</qty><crit><field>Type</field><eval>IS</eval><data>LOCATION</data></crit></kind>		<kind><qty>9</qty><crit><field>Type</field><eval>IS</eval><data>MATERIAL</data></crit></kind>		<kind><qty>1</qty><crit><field>Type</field><eval>IS</eval><data>ARCHITECT</data></crit></kind>			</chance></pack><pack>	<packtitle>Un-Signed Card</packtitle>	<packimage>collecters.png</packimage>	<packformat>limited</packformat>	<packkind>Promotion</packkind>	<packdoubles>no</packdoubles>	<packcommoncrit><field>Set</field><eval>IS</eval><data>PROMO</data></packcommoncrit>	<chance>		<kind><qty>1</qty><crit><field>Number</field><eval>IS</eval><data>0</data></crit></kind>	</chance></pack><pack>	<packtitle>Preorder Bonus Cards</packtitle>	<packimage>samplebooster.png</packimage>	<packformat>special</packformat>	<packkind>Promotion</packkind>	<packdoubles>no</packdoubles>	<packcommoncrit><field>Set</field><eval>IS</eval><data>PREORDER</data></packcommoncrit>	<chance>		<kind><qty>1</qty><crit><field>Number</field><eval>IS</eval><data>11</data></crit></kind>		<kind><qty>1</qty><crit><field>Number</field><eval>IS</eval><data>33</data></crit></kind>		<kind><qty>1</qty><crit><field>Number</field><eval>IS</eval><data>35</data></crit></kind>		<kind><qty>1</qty><crit><field>Number</field><eval>IS</eval><data>58</data></crit></kind>		<kind><qty>1</qty><crit><field>Number</field><eval>IS</eval><data>69</data></crit></kind>		<kind><qty>1</qty><crit><field>Number</field><eval>IS</eval><data>75</data></crit></kind>		<kind><qty>1</qty><crit><field>Number</field><eval>IS</eval><data>100</data></crit><crit><field>Rarity</field><eval>IS</eval><data>Rb</data></crit></kind>		<kind><qty>1</qty><crit><field>Number</field><eval>IS</eval><data>100</data></crit><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>	</chance></pack><pack>	<packtitle>Booshter Pack</packtitle>	<packimage>booshterpack.png</packimage>	<packformat>booshter</packformat>	<packkind>BasicExpansion</packkind>	<packdoubles>yes</packdoubles>	<packcommoncrit><field>Set</field><eval>IS</eval><data>PRIME</data></packcommoncrit>	<chance>		<prob>98</prob>		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>1</data></crit></kind>		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>2</data></crit></kind>		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>3</data></crit></kind>		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>4</data></crit></kind>		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>5</data></crit></kind>		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>6</data></crit></kind>		<kind><qty>1</qty><crit><field>Card</field><eval>CONTAINS</eval><data>7</data></crit></kind>	</chance>	<chance>		<prob>2</prob>		<kind>			<qty>7</qty>			<crit><field>Rarity</field><eval>IS</eval><data>B</data></crit>			<crit><field>Foil</field><eval>IS</eval><data>1</data></crit>		</kind>	</chance>
+</pack><pack>	<packtitle>Booshter Box</packtitle>	<packimage>booshterbox.png</packimage>	<packformat>booshter</packformat>	<packkind>BasicExpansion</packkind>	<packdoubles>yes</packdoubles>	<packcommoncrit><field>Set</field><eval>IS</eval><data>PRIME</data></packcommoncrit>	<chance>		<prob>98</prob>		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>1</data></crit></kind>		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>2</data></crit></kind>		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>3</data></crit></kind>		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>4</data></crit></kind>		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>5</data></crit></kind>		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>6</data></crit></kind>		<kind><qty>8</qty><crit><field>Card</field><eval>CONTAINS</eval><data>7</data></crit></kind>	</chance>	<chance>		<prob>2</prob>		<kind>			<qty>7</qty>			<crit><field>Card</field><eval>CONTAINS</eval><data>1</data></crit>		</kind>		<kind>			<qty>7</qty>			<crit><field>Card</field><eval>CONTAINS</eval><data>2</data></crit>		</kind>		<kind>			<qty>7</qty>			<crit><field>Card</field><eval>CONTAINS</eval><data>3</data></crit>		</kind>		<kind>			<qty>7</qty>			<crit><field>Card</field><eval>CONTAINS</eval><data>4</data></crit>		</kind>		<kind>			<qty>7</qty>			<crit><field>Card</field><eval>CONTAINS</eval><data>5</data></crit>		</kind>		<kind>			<qty>7</qty>			<crit><field>Card</field><eval>CONTAINS</eval><data>6</data></crit>		</kind>		<kind>			<qty>7</qty>			<crit><field>Card</field><eval>CONTAINS</eval><data>7</data></crit>		</kind>		<kind>			<qty>7</qty>			<crit><field>Rarity</field><eval>IS</eval><data>B</data></crit>			<crit><field>Foil</field><eval>IS</eval><data>1</data></crit>		</kind>	</chance></pack></packdefinitions>
