@@ -1,22 +1,17 @@
-civil-draft	09-17-25
-plugins/civil-draft/updatelist.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/updatelist.txt	330835
-plugins/civil-draft/version.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/version.txt	45307
+civil-draft	09-18-25
+plugins/civil-draft/updatelist.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/updatelist.txt	346700
+plugins/civil-draft/version.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/version.txt	45308
 plugins/civil-draft/formats.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/formats.txt	20826
 plugins/civil-draft/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/ListOfCardDataFiles.txt	8581
-
 plugins/civil-draft/plugininfo.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/plugininfo.txt	450767
-plugins/civil-draft/uninstall.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/uninstall.txt	12972
+plugins/civil-draft/uninstall.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/uninstall.txt	7782
 plugins/civil-draft/defaultchat.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/defaultchat.txt	14972
 plugins/civil-draft/CardImageURLs1.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/CardImageURLs1.txt	1959716
-
-plugins/civil-draft/sets/carddata.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/cardfiles/carddata.txt	2143403
-
-plugins/civil-draft/packs/packdefinitions1.xml	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/packs/packdefinitions1.xml	396621
-
-plugins/civil-draft/bot.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/bot.png	-166919
+plugins/civil-draft/sets/carddata.txt	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/cardfiles/carddata.txt	2147706
+plugins/civil-draft/packs/packdefinitions1.xml	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/updates/packs/packdefinitions1.xml	470876
+plugins/civil-draft/bot.jpg	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/bot.jpg	-29182
 plugins/civil-draft/cardback.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/cardback.png	-129717
 plugins/civil-draft/spawned.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/spawned.png	-55442
-
 plugins/civil-draft/packs/Box_Closed.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/Box_Closed.png	-66035
 plugins/civil-draft/packs/Box_Open.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/Box_Open.png	-63194
 plugins/civil-draft/packs/collecters.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/collecters.png	-335146
@@ -25,7 +20,6 @@ plugins/civil-draft/packs/full_set.png	https://raw.githubusercontent.com/Disappr
 plugins/civil-draft/packs/multibox.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/multibox.png	-172674
 plugins/civil-draft/packs/preorder.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/preorder.png	-70106
 plugins/civil-draft/packs/samplebooster.png	https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/refs/heads/main/civil-draft/static/images/samplebooster.png	-381491
-
 CardGeneralURLs:
 https://raw.githubusercontent.com/DisapprovedToaster/LackeyPlugins/main/civil-draft/cardFaces/
 
